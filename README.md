@@ -7,4 +7,4 @@
 🌎 My hobbies are playing Football, Listening to Music, and playing Video Games </br>
 🗄️ Learning Journey repository Coming Soon! </br>
 
-[![Fons's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonsfons28)](https://github.com/anuraghazra/github-readme-stats)
+![Fons's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonsfons28&show_icons=true&theme=tokyonight)
